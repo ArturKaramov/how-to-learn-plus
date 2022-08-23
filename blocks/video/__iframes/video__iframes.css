@@ -5,5 +5,7 @@
   justify-content: center;
   gap: 20px;
   list-style-type: none;
-  transform: translate(0, 50px);
+
+  margin-top: -10px;
+  transform: translate(0, 60px);
 }
